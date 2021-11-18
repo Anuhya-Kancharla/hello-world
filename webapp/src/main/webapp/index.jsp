@@ -1,5 +1,5 @@
 <h1> Hello World </h1>
-<h2> Deploying onto docker using ansible</h2>
+<h2> Deploying onto Kubernetes using ansible</h2>
 
 <form action="action_page.php">
   <div class="container">
